@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently studying in m.5 buemgkan school
-- 🌱 I’m currently learning code gamedev server
+- 🔭 I’m currently studying in m.6
+- 🌱 I’m currently learning code gamedev server eternals
 - 💬 Ask me about anything
 
 ## 🌐 Socials:
